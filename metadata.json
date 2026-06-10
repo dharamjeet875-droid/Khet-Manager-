@@ -1,0 +1,6 @@
+{
+  "name": "Khet Manager",
+  "description": "Comprehensive farm management web application for tracking crops, finances, activities, soil quality, documents, livestock, labour, inventory, and mandi prices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
